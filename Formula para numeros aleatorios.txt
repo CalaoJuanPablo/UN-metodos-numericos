@@ -1,0 +1,5 @@
+formula para aleatorios desde a hasta b
+
+variable=a+(b-a)*rand --> genera numeros aleatorios reales
+
+variable=a+fix(b-a+1)*rand --> genera numeros aleatorios enteros
